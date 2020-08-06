@@ -1,4 +1,4 @@
-A shooting game writed in pygame.
+A shooting game written in pygame.
 
 Run alien_invasion.py.
 
